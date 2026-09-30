@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-actors-and-directors-who-cooperated-at-least-three-times](https://github.com/1507kaushik-kk/Leetcode/tree/master/1050-actors-and-directors-who-cooperated-at-least-three-times) |
 | [1141-user-activity-for-the-past-30-days-i](https://github.com/1507kaushik-kk/Leetcode/tree/master/1141-user-activity-for-the-past-30-days-i) |
 | [1148-article-views-i](https://github.com/1507kaushik-kk/Leetcode/tree/master/1148-article-views-i) |
+| [1179-reformat-department-table](https://github.com/1507kaushik-kk/Leetcode/tree/master/1179-reformat-department-table) |
 | [1211-queries-quality-and-percentage](https://github.com/1507kaushik-kk/Leetcode/tree/master/1211-queries-quality-and-percentage) |
 | [1683-invalid-tweets](https://github.com/1507kaushik-kk/Leetcode/tree/master/1683-invalid-tweets) |
 | [1757-recyclable-and-low-fat-products](https://github.com/1507kaushik-kk/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
