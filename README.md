@@ -35,5 +35,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1280-students-and-examinations](https://github.com/1507kaushik-kk/Leetcode/tree/master/1280-students-and-examinations) |
 | [1484-group-sold-products-by-the-date](https://github.com/1507kaushik-kk/Leetcode/tree/master/1484-group-sold-products-by-the-date) |
 | [1683-invalid-tweets](https://github.com/1507kaushik-kk/Leetcode/tree/master/1683-invalid-tweets) |
+| [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/1507kaushik-kk/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/1507kaushik-kk/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
