@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/1507kaushik-kk/Leetcode/tree/master/0118-pascals-triangle) |
 | [0303-range-sum-query-immutable](https://github.com/1507kaushik-kk/Leetcode/tree/master/0303-range-sum-query-immutable) |
 ## Design
 |  |
@@ -62,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/1507kaushik-kk/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/1507kaushik-kk/Leetcode/tree/master/0112-path-sum) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/1507kaushik-kk/Leetcode/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
