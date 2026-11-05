@@ -39,4 +39,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1683-invalid-tweets](https://github.com/1507kaushik-kk/Leetcode/tree/master/1683-invalid-tweets) |
 | [1731-the-number-of-employees-which-report-to-each-employee](https://github.com/1507kaushik-kk/Leetcode/tree/master/1731-the-number-of-employees-which-report-to-each-employee) |
 | [1757-recyclable-and-low-fat-products](https://github.com/1507kaushik-kk/Leetcode/tree/master/1757-recyclable-and-low-fat-products) |
+## Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/1507kaushik-kk/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/1507kaushik-kk/Leetcode/tree/master/0110-balanced-binary-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0110-balanced-binary-tree](https://github.com/1507kaushik-kk/Leetcode/tree/master/0110-balanced-binary-tree) |
 <!---LeetCode Topics End-->
